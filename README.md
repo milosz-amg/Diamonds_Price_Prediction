@@ -5,7 +5,7 @@
 
 ## 📊 Overview
 
-This project is a **machine learning model** designed to predict diamond prices based on their characteristics. It utilizes data analysis, feature engineering, and regression models to create an effective price predictor for diamonds using the **Diamonds dataset** (commonly available via Kaggle and Seaborn).
+This project is a **machine learning model** designed to predict diamond prices based on their characteristics. It utilizes data analysis, feature engineering, and regression models to create an effective price predictor for diamonds using the **Diamonds dataset** (commonly available via Kaggle, HuggingFace and Seaborn).
 
 The notebook contains a complete pipeline: from data loading and preprocessing to training, evaluation, and visualization of the model's performance.
 
@@ -54,7 +54,7 @@ The dataset includes the following features:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/diamonds-price-prediction.git
+   git clone https://github.com/milosz-amg/Diamonds_Price_Prediction.git
    ```
 2. **Navigate to the project directory**:
    ```bash
@@ -65,16 +65,5 @@ The dataset includes the following features:
    jupyter notebook Diamonds_price_prediction.ipynb
    ```
 4. **Run all cells** to see the analysis and model output.
-
----
-
-## 📈 Example Results
-
-- **Model performance**: Achieved an R² score of approximately *X.XX* on the test set (replace with real value from notebook).
-- **Feature importance**: Top features influencing price include *carat*, *cut*, and *clarity*.
-
----
-
-⭐️ If you like this project, give it a star!
 
 ---
